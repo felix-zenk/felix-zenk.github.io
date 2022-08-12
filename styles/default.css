@@ -1,10 +1,13 @@
+* {
+    font-family: Roboto, serif;
+}
+
 .centered {
     text-align: center;
 }
 
 .title {
     font-size: 1.5em;
-    font-family: Roboto, serif;
 }
 
 .padded {
